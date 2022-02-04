@@ -1,13 +1,13 @@
-baseURL = "https://www.example.com"
+baseURL = "https://uber.day"
 languageCode = "en-us"
 removePathAccents = true
 theme = "infinity-hugo"
-title = "Infinity | Comming Soon Hugo Template By Themefisher"
+title = "Uber Cool Day"
 [params]
 customHead = ""
 [params.about]
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ulla-mco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, aspernatur."
-enable = true
+enable = false
 heading = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam ipsa recusandae consequatur veniam, reiciendis odit quia eaque vel eius a."
 [[params.about.sliderItem]]
 image = "images/about/1.jpg"
@@ -34,8 +34,8 @@ countdownMonth = "12"
 countdownYear = "2022"
 disableCountdown = false
 enable = true
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
-title = "BRING YOUR PRODUCT TO LIGHT"
+subtitle = "Did you know that you can send us Crypto at this address? Send your cypto today to uber.day"
+title = "Uber Cool Day"
 [params.navigation]
 about = "About"
 contact = "Contact"
