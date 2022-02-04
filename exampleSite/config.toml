@@ -18,7 +18,7 @@ image = "images/about/3.jpg"
 [[params.about.sliderItem]]
 image = "images/about/2.jpg"
 [params.contact]
-enable = true
+enable = false
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
 title = "Get In Touch"
 [params.cta]
@@ -31,7 +31,7 @@ bg = "images/header-bg.jpg"
 btnText = "Get Started"
 countdownDay = "31"
 countdownMonth = "12"
-countdownYear = "2021"
+countdownYear = "2022"
 disableCountdown = false
 enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
@@ -43,7 +43,7 @@ home = "Home"
 logo = "images/logo.png"
 service = "Services"
 [params.service]
-enable = true
+enable = false
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et"
 title = "Find Better Solutions Build Better Products"
 [[params.service.serviceItem]]
