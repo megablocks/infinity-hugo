@@ -18,23 +18,23 @@ image = "images/about/3.jpg"
 [[params.about.sliderItem]]
 image = "images/about/2.jpg"
 [params.contact]
-enable = false
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
+enable = true
+subtitle = "Contact us"
 title = "Get In Touch"
 [params.cta]
 bg = "images/call-to-action.jpg"
-enable = true
+enable = false
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 title = "Subscribe to our mailing list"
 [params.hero]
 bg = "images/header-bg.jpg"
-btnText = "Get Started"
+btnText = "Send"
 countdownDay = "31"
 countdownMonth = "12"
 countdownYear = "2022"
 disableCountdown = false
 enable = true
-subtitle = "Did you know that you can send us Crypto at this address? Send your cypto today to uber.day"
+subtitle = "Did you know that you can send us Crypto at this address? Send your cypto today : uber.day"
 title = "Uber Cool Day"
 [params.navigation]
 about = "About"
