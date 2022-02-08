@@ -39,7 +39,7 @@ title = "Uber Cool Day"
 about = "About"
 contact = "Contact"
 home = "Home"
-logo = "images/logo.png"
+logo = "images/UBER%20day-logos_transparent.png"
 service = "Services"
 [params.service]
 enable = false
