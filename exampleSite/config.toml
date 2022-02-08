@@ -2,7 +2,7 @@ baseURL = "https://uber.day"
 languageCode = "en-us"
 removePathAccents = true
 theme = "infinity-hugo"
-title = "Uber Cool Day"
+title = ""
 [params]
 customHead = ""
 [params.about]
