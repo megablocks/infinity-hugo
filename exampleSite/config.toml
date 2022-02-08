@@ -2,7 +2,7 @@ baseURL = "https://uber.day"
 languageCode = "en-us"
 removePathAccents = true
 theme = "infinity-hugo"
-title = ""
+title = "Uber Cool Day"
 [params]
 customHead = ""
 [params.about]
@@ -34,7 +34,7 @@ countdownYear = "2022"
 disableCountdown = false
 enable = true
 subtitle = "Did you know that you can send us Crypto at this address? Send your cypto today : uber.day"
-title = "Uber Cool Day"
+title = ""
 [params.navigation]
 about = "About"
 contact = "Contact"
