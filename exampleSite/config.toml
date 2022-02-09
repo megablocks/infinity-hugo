@@ -39,7 +39,7 @@ title = ""
 about = "About"
 contact = "Contact"
 home = "Home"
-logo = "images/uberday.svg"
+logo = "images/Uber_day-logos__white_18.png"
 service = "Services"
 [params.service]
 enable = false
