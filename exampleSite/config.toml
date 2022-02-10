@@ -4,7 +4,7 @@ removePathAccents = true
 theme = "infinity-hugo"
 title = "Uber Cool Day"
 [params]
-customHead = ""
+customHead = "A Crypto Wallet"
 [params.about]
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ulla-mco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, aspernatur."
 enable = false
@@ -33,8 +33,8 @@ countdownMonth = "12"
 countdownYear = "2022"
 disableCountdown = false
 enable = true
-subtitle = "Did you know that you can send us Crypto at this address? Send your cypto today : uber.day"
-title = ""
+subtitle = "Meanwhile, Did you know that you can send us Crypto directly to this website? Send us your cypto today to: uber.day"
+title = "Uber Cool Days Are Coming Soon!"
 [params.navigation]
 about = "About"
 contact = "Contact"
