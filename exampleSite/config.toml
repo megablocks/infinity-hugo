@@ -6,7 +6,7 @@ title = "Uber.Day - A Cypto Wallet"
 [params]
 customHead = ""
 [params.about]
-description = "Uber.day is created to host a crypto wallet enabling easy crypto transacations and communcations"
+description = "                                                               Uber.day is created to host a crypto wallet enabling easy crypto transacations and communcations"
 enable = true
 heading = "Uber.day- An Easy Crypto Wallet"
 [[params.about.sliderItem]]
