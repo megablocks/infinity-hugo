@@ -2,13 +2,13 @@ baseURL = "https://uber.day"
 languageCode = "en-us"
 removePathAccents = true
 theme = "infinity-hugo"
-title = "Uber Cool Day"
+title = "Uber.Day - A Cypto Wallet"
 [params]
-customHead = "A Crypto Wallet"
+customHead = ""
 [params.about]
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ulla-mco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, aspernatur."
-enable = false
-heading = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam ipsa recusandae consequatur veniam, reiciendis odit quia eaque vel eius a."
+description = "Uber.day is created to host as a crypto wallet enabling easy crypto transacations and communcations"
+enable = true
+heading = "Uber.day- An Easy Crypto Wallet"
 [[params.about.sliderItem]]
 image = "images/about/1.jpg"
 [[params.about.sliderItem]]
